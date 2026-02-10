@@ -59,7 +59,7 @@ const Testimonials = () => {
                                 style={{ transform: `translateX(${(index - current) * 100}%)` }}
                             >
                                 <Quote size={48} className="text-[#D2691E] mx-auto mb-8 opacity-80" />
-                                <p className="text-xl md:text-2xl font-light italic mb-8 leading-relaxed text-gray-700">"{item.text}"</p>
+                                <p className="text-xl md:text-2xl font-light italic mb-8 leading-relaxed text-gray-700">&quot;{item.text}&quot;</p>
                                 <div>
                                     <h4 className="text-lg font-bold text-[#003366]">{item.author}</h4>
                                     <p className="text-[#D2691E] text-sm">{item.role}</p>
