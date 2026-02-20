@@ -50,7 +50,6 @@ export default function ContactPage() {
                                     <div>
                                         <h4 className="font-bold text-[#003366] text-lg">Phone Numbers</h4>
                                         <p className="text-gray-600">+91 98983 65674</p>
-                                        <p className="text-gray-600">+91 96494 23692</p>
                                         <p className="text-gray-600">+91 95586 28622</p>
                                     </div>
                                 </div>
