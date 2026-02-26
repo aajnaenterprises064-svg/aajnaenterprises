@@ -10,7 +10,7 @@ const QualityAssurance = () => {
                         <h3 className="text-[#D2691E] font-bold uppercase tracking-wider mb-2 text-base md:text-lg">Our Commitment</h3>
                         <h2 className="text-3xl md:text-5xl font-extrabold text-[#003366] mb-6">ISO 9001:2015 Certified Quality</h2>
                         <p className="text-gray-600 mb-6 leading-relaxed text-lg">
-                            Quality is at the heart of everything we do. At Aajana Enterprise, we follow stringent quality control measures to ensure that every product meets international standards.
+                            Quality is at the heart of everything we do. At Aajana enterprises, we follow stringent quality control measures to ensure that every product meets international standards.
                         </p>
                         <div className="grid grid-cols-1 sm:grid-cols-2 gap-6">
                             <div className="flex items-start gap-3">

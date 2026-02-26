@@ -34,8 +34,8 @@ const Header = () => {
                     <div className="flex justify-between items-center py-0 h-20">
                         {/* Logo */}
                         <Link href="/" className="flex items-center h-full py-1">
-                            <img src="/images/logo.png" alt="Aajana Enterprise" className="h-full w-auto object-contain rounded-lg" />
-                            <span className="sr-only">AAJNA ENTERPRISE</span>
+                            <img src="/images/logo.png" alt="Aajana enterprises" className="h-full w-auto object-contain rounded-lg" />
+                            <span className="sr-only">AAJNA enterprises</span>
                         </Link>
 
                         {/* Desktop Menu */}

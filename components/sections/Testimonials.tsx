@@ -5,7 +5,7 @@ import { Quote, ChevronLeft, ChevronRight } from 'lucide-react';
 
 const testimonials = [
     {
-        text: "Aajna Enterprise has been our go-to supplier for SS pipes for over 5 years. Their quality and consistency are unmatched in the market.",
+        text: "Aajna enterprises has been our go-to supplier for SS pipes for over 5 years. Their quality and consistency are unmatched in the market.",
         author: "Rajesh Kumar",
         role: "Project Manager, BuildTech India",
         image: null // Placeholder

@@ -24,7 +24,7 @@ export default function AboutPage() {
                             <div className="relative rounded-lg overflow-hidden shadow-2xl group">
                                 <img
                                     src="/images/products/pipe and tube.jpeg"
-                                    alt="About Aajna Enterprise"
+                                    alt="About Aajna enterprises"
                                     className="w-full h-auto object-cover transform transition-transform duration-700 group-hover:scale-105"
                                 />
                                 <div className="absolute inset-0 bg-[#D2691E]/10 group-hover:bg-transparent transition-colors"></div>
@@ -38,7 +38,7 @@ export default function AboutPage() {
                             <h3 className="text-[#D2691E] font-bold uppercase tracking-wider mb-2 text-sm">Our Journey</h3>
                             <h2 className="text-3xl font-bold text-[#003366] mb-6">A Legacy of Excellence in Metal Manufacturing</h2>
                             <p className="text-gray-600 mb-4 leading-relaxed">
-                                Aajana Enterprise was founded with a clear mission: to deliver high-quality metal products that empower industries. Over the years, we have established ourselves as a premier manufacturer and supplier of stainless steel pipes, tubes, sheets, plates, and fittings.
+                                Aajana enterprises was founded with a clear mission: to deliver high-quality metal products that empower industries. Over the years, we have established ourselves as a premier manufacturer and supplier of stainless steel pipes, tubes, sheets, plates, and fittings.
                             </p>
                             <p className="text-gray-600 mb-6 leading-relaxed">
                                 Our growth has been driven by our commitment to customer satisfaction, innovation, and strict adherence to quality standards. We serve a diverse range of industries including Oil & Gas, Petrochemicals, Pharmaceuticals, Construction, and more.

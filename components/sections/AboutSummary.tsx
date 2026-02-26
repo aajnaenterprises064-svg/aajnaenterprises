@@ -13,7 +13,7 @@ const AboutSummary = () => {
                         <div className="relative rounded-lg overflow-hidden shadow-2xl z-10">
                             <img
                                 src="/images/products/pipes and rods.jpeg"
-                                alt="Aajana Enterprise Factory"
+                                alt="Aajana enterprises Factory"
                                 className="w-full h-auto object-cover transform group-hover:scale-105 transition-transform duration-700"
                             />
                         </div>
@@ -30,7 +30,7 @@ const AboutSummary = () => {
                                 Leading Manufacturer of <br /><span className="text-[#D2691E]">Quality Metal Products</span>
                             </h2>
                             <p className="text-gray-600 mb-6 leading-relaxed text-lg">
-                                Established with a vision to provide world-class metal solutions, Aajna Enterprise has grown into a trusted name in the industry. We specialize in manufacturing and supplying a wide range of stainless steel products, capitalizing on our state-of-the-art infrastructure and skilled workforce.
+                                Established with a vision to provide world-class metal solutions, Aajna enterprises has grown into a trusted name in the industry. We specialize in manufacturing and supplying a wide range of stainless steel products, capitalizing on our state-of-the-art infrastructure and skilled workforce.
                             </p>
                             <p className="text-gray-600 mb-8 leading-relaxed text-lg">
                                 Our commitment to quality is unwavering. We adhere to strict ISO 9001:2015 standards to ensure that every product we deliver meets the highest global benchmarks. Whether you need pipes, tubes, sheets, or custom fittings, we have the expertise to fulfill your requirements.

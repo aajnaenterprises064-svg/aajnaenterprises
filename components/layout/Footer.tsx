@@ -17,7 +17,7 @@ const Footer = () => {
                     {/* Column 1: Company Info */}
                     <div>
                         <div className="mb-6 bg-white/10 p-2 rounded w-fit">
-                            <img src="/images/logo.png" alt="Aajana Enterprise" className="h-16 w-auto object-contain mix-blend-screen" />
+                            <img src="/images/logo.png" alt="Aajana enterprises" className="h-16 w-auto object-contain mix-blend-screen" />
                         </div>
                         <p className="mb-6 text-sm leading-relaxed text-gray-400">
                             We are a leading manufacturer and supplier of high-quality metal products, dedicated to excellence and customer satisfaction.
@@ -48,7 +48,6 @@ const Footer = () => {
                                 <Phone className="text-[#D2691E] shrink-0" size={18} />
                                 <div className="flex flex-col">
                                     <span className="text-sm">+91 98983 65674</span>
-                                    <span className="text-sm">+91 96494 23692</span>
                                     <span className="text-sm">+91 95586 28622</span>
                                 </div>
                             </li>
@@ -81,7 +80,7 @@ const Footer = () => {
 
                 {/* Bottom Bar */}
                 <div className="border-t border-white/10 pt-8 flex flex-col md:flex-row justify-between items-center text-sm">
-                    <p>&copy; {new Date().getFullYear()} Aajna Enterprise. All Rights Reserved.</p>
+                    <p>&copy; {new Date().getFullYear()} Aajna enterprises. All Rights Reserved.</p>
                     <div className="mt-4 md:mt-0 flex gap-4">
                         <Link href="/terms" className="hover:text-white">Terms & Conditions</Link>
                         <Link href="/privacy" className="hover:text-white">Privacy Policy</Link>
